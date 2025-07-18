@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Sudeep</h1>
-<h3 align="left">🧑‍🎓 Beginner | 💡 Curious |</h3>
+<h3 align="left">🧑‍🎓 Beginner   💡 Curious   ⚙ Techspirer</h3>
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=1spds&label=Profile%20views&color=0e75b6&style=flat" alt="1spds" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
